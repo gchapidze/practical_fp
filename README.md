@@ -1,2 +1,2 @@
 # Functional programming
-DSL and JSON processing
+MAZE, DSL and JSON processing
